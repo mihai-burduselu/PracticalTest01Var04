@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PracticalTest01Var04</string>
+    <string name="navigate_to_secondary_activity">Navigate to secondary activity</string>
+    <string name="top_left">Top Left</string>
+    <string name="top_right">Top right</string>
+    <string name="center">Center</string>
+    <string name="bot_left">Bottom left</string>
+    <string name="bot_right">Bottom right</string>
+    <string name="verify">Verify</string>
+    <string name="cancel">Cancel</string>
+</resources>
